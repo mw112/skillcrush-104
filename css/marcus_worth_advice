@@ -2673,37 +2673,3 @@ footer.brandi-advice {
     color: black;
   }
 /* End Heather's advice style */
-/* start marcus advice style */
-.marcusworth-advice {
-    margin: auto 10px;
-    width: auto;
-    height: 2000px;
-    background-color: #F5F5DC;
-}
-.marcusworth-advice h1 {
-    font-family: monospace;
-    font-size: 25px;
-    font-weight: bold;
-    font-style: italic;
-    color: blue;
-    background-color: #F5F5DC;
-	text-align: center;
-  }
-
-.marcusworth-advice h4 {
-    font-family: monospace;
-    font-size: 20;
-    font-weight: bold;
-    font-style: italic;
-    color: blue;
-    background-color: #F5F5DC;
-  }
-
-.marcusworth-advice p {
-    font-family: monospace;
-    font-size: 18px;
-    font-style: italic;
-    color: blue;
-    background-color: #F5F5DC;
-  }
-/* End marcus advice style */
